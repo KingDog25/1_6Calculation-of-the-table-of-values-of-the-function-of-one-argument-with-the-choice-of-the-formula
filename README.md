@@ -1,0 +1,1 @@
+# 1_6Calculation-of-the-table-of-values-of-the-function-of-one-argument-with-the-choice-of-the-formula
